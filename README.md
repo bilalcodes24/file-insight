@@ -1,2 +1,2 @@
 # file-insight
-PF course project
+Programming Fundamentals course project
